@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ABS",
+    "technology": "FDM",
+    "colors": ["Black", "White"],
+    "pricePerGram": 0.05,
+    "imageUrl": "https://example.com/images/petg.jpg"
+  },
+  {
+    "name": "Nylon",
+    "technology": "SLS",
+    "colors": ["Natural", "Black"],
+    "pricePerGram": 0.07,
+    "imageUrl": "https://example.com/images/petg.jpg"
+  },
+  {
+    "name": "PETG",
+    "technology": "FDM",
+    "colors": ["Transparent", "White"],
+    "pricePerGram": 0.04,
+    "imageUrl": "https://example.com/images/petg.jpg"
+  },
+  {
+    "name": "TPU",
+    "technology": "FDM",
+    "colors": ["Black", "White", "Red"],
+    "pricePerGram": 0.08,
+    "imageUrl": "https://example.com/images/tpu.jpg"
+  }
+]
